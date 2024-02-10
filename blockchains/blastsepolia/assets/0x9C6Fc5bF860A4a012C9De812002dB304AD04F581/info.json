@@ -1,0 +1,15 @@
+{
+    "name": "BOLT",
+    "explorer": "https://testnet.blastscan.io/token/0x1B0cC80F4E2A7d205518A1Bf36de5bED686662FE",
+    "type": "ERC20",
+    "symbol": "BOLT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1B0cC80F4E2A7d205518A1Bf36de5bED686662FE",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+    ]
+}

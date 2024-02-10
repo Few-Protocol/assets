@@ -1,0 +1,21 @@
+{
+    "name": "RingToken",
+    "website": "http://makerdao.com",
+    "description": "RNG is the Ring protocol token. Ring is a decentralized protocol for automated liquidity provision on Blast.",
+    "explorer": "https://etherscan.io/token/0x21cC6C8cE8F8808E9842b7c49119C1e6106eacBe",
+    "type": "ERC20",
+    "symbol": "RNG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x21cC6C8cE8F8808E9842b7c49119C1e6106eacBe",
+    "tags": [
+        "defi",
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ProtocolRing"
+        }
+    ]
+}

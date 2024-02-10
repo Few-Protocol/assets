@@ -1,0 +1,21 @@
+{
+    "name": "RingToken",
+    "website": "http://makerdao.com",
+    "description": "RGB is the Ring protocol token. Ring is a decentralized protocol for automated liquidity provision on Blast.",
+    "explorer": "https://testnet.blastscan.io/token/0x7647a41596c1Ca0127BaCaa25205b310A0436B4C",
+    "type": "ERC20",
+    "symbol": "RGB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7647a41596c1Ca0127BaCaa25205b310A0436B4C",
+    "tags": [
+        "defi",
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ProtocolRing"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RingToken",
+    "website": "http://makerdao.com",
+    "description": "RING is the Ring protocol token. Ring is a decentralized protocol for automated liquidity provision on Blast.",
+    "explorer": "https://etherscan.io/token/0x0BD5539E33a1236bA69228271e60f3bFf8fDB7DB",
+    "type": "ERC20",
+    "symbol": "RING",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0BD5539E33a1236bA69228271e60f3bFf8fDB7DB",
+    "tags": [
+        "defi",
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ProtocolRing"
+        }
+    ]
+}
