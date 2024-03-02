@@ -1,0 +1,11 @@
+{
+    "name": "WETH",
+    "symbol": "WETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://weth.io/",
+    "explorer": "https://blastscan.io/address/0x4300000000000000000000000000000000000004",
+    "status": "active",
+    "id": "0x4300000000000000000000000000000000000004"
+}

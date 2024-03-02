@@ -1,0 +1,20 @@
+{
+    "name": "Blast",
+    "website": "https://blast.io/",
+    "description": "Blast is the L2 that helps you earn.",
+    "explorer": "https://blastscan.io/",
+    "research": "https://research.binance.com/en/projects/ethereum",
+    "symbol": "Blast",
+    "type": "Blast",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "governance"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Blast_L2"
+        }
+    ]
+}

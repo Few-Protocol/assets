@@ -1,0 +1,21 @@
+{
+    "name": "RingToken",
+    "website": "https://ring.exchange/",
+    "description": "RING is the Ring protocol governance token. Ring is a decentralized protocol for automated liquidity provision on Blast.",
+    "explorer": "https://blastscan.io/token/0x25F233C3E3676f9e900a89644a3FE5404d643c84",
+    "type": "ERC20",
+    "symbol": "RING",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x25F233C3E3676f9e900a89644a3FE5404d643c84",
+    "tags": [
+        "defi",
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ProtocolRing"
+        }
+    ]
+}

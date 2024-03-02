@@ -1,0 +1,11 @@
+{
+    "name": "Rebasing USD",
+    "symbol": "USDB",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://blast.io/",
+    "explorer": "https://blastscan.io/address/0x4300000000000000000000000000000000000003",
+    "status": "active",
+    "id": "0x4300000000000000000000000000000000000003"
+}
