@@ -1,0 +1,20 @@
+{
+    "name": "OmniCat",
+    "website": "https://twitter.com/OmniCatCoin/",
+    "description": "The first omnichain memecoin, powered by LayerZero.",
+    "explorer": "https://blastscan.io/token/0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "type": "ERC20",
+    "symbol": "OMNI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "tags": [
+        "memecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/OmniCatCoin"
+        }
+    ]
+}
