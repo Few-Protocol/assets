@@ -1,0 +1,20 @@
+{
+    "name": "DragonBall",
+    "website": "https://goku.fi/",
+    "description": "The first Dragon Ball universe yield farm, brought to you on Blast by KapsuleCorp.",
+    "explorer": "https://blastscan.io/token/0x5F59EcF360F19444173D120fec7D1FB0c42e0f26",
+    "type": "ERC20",
+    "symbol": "DBZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5F59EcF360F19444173D120fec7D1FB0c42e0f26",
+    "tags": [
+        "memecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Goku_fi"
+        }
+    ]
+}
