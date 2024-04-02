@@ -1,0 +1,11 @@
+{
+    "name": "Orbit Protocol",
+    "symbol": "ORBIT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://orbitlending.io/",
+    "explorer": "https://blastscan.io/address/0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+    "status": "active",
+    "id": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357"
+}
