@@ -1,0 +1,21 @@
+{
+    "name": "Duo USD",
+    "website": "https://duo.exchange",
+    "description": "Duo Exchange is an interest rate swapping protocol on Blast.",
+    "explorer": "https://blastscan.io/token/0x1A3D9B2fa5c6522c8c071dC07125cE55dF90b253",
+    "type": "ERC20",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1A3D9B2fa5c6522c8c071dC07125cE55dF90b253",
+    "tags": [
+        "defi",
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Particle_trade"
+        }
+    ]
+}
