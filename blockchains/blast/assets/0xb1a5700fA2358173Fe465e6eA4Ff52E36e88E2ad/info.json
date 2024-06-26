@@ -1,0 +1,21 @@
+{
+    "name": "Blast",
+    "website": "https://blast.io/",
+    "description": "Blast is the only Ethereum Layer 2 (L2) with native yield for ETH and stablecoins.",
+    "explorer": "https://blastscan.io/token/0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "type": "ERC20",
+    "symbol": "BLAST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "tags": [
+        "L2",
+        "block"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/blast_l2"
+        }
+    ]
+}
