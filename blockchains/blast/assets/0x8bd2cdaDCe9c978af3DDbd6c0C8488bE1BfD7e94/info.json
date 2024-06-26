@@ -1,0 +1,21 @@
+{
+    "name": "Ring Point",
+    "website": "https://ring.exchange/",
+    "description": "Ring Point is an ERC20 token issued on the Blast mainnet and users can claim Ring Point at any time.",
+    "explorer": "https://blastscan.io/token/0x8bd2cdaDCe9c978af3DDbd6c0C8488bE1BfD7e94",
+    "type": "ERC20",
+    "symbol": "POINT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8bd2cdaDCe9c978af3DDbd6c0C8488bE1BfD7e94",
+    "tags": [
+        "defi",
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ProtocolRing"
+        }
+    ]
+}
