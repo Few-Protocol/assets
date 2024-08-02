@@ -1,0 +1,20 @@
+{
+    "name": "Long Token",
+    "website": "https://longgame.wtf/",
+    "description": "Long Game is a pioneering gaming series built on blockchain technology, seamlessly integrating gaming with decentralized finance (DeFi).",
+    "explorer": "https://blastscan.io/token/0xbDFd771208c7A0fC128AE538e1c4BcA9A354Ec4E",
+    "type": "ERC20",
+    "symbol": "LONG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbDFd771208c7A0fC128AE538e1c4BcA9A354Ec4E",
+    "tags": [
+        "game"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/LongGameWTF"
+        }
+    ]
+}
