@@ -2,7 +2,7 @@
     "name": "Wand ETHx",
     "website": "https://wand.fi/",
     "description": "A Structured Protocol for Better Asset Utilization.",
-    "explorer": "https://blastscan.io/address/0xd79d6fe06f4c2b17291015169d1443f50d0c2838",
+    "explorer": "https://blastscan.io/address/0xd79d6Fe06F4C2b17291015169d1443f50D0C2838",
     "type": "ERC20",
     "symbol": "ETHx",
     "decimals": 18,
