@@ -1,0 +1,11 @@
+{
+  "name": "USDe",
+  "symbol": "USDe",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+  "status": "active",
+  "id": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3"
+}
