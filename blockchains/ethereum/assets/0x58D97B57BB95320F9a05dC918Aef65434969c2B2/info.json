@@ -1,0 +1,11 @@
+{
+  "name": "Morpho Token",
+  "symbol": "MORPHO",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+  "status": "active",
+  "id": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2"
+}

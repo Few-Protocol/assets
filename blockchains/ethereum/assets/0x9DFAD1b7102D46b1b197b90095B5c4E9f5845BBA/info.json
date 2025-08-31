@@ -1,0 +1,11 @@
+{
+  "name": "Botto",
+  "symbol": "BOTTO",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA",
+  "status": "active",
+  "id": "0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA"
+}
