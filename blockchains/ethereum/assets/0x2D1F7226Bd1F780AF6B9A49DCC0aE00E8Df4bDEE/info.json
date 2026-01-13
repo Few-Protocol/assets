@@ -1,0 +1,11 @@
+{
+  "name": "NVIDIA (Ondo Tokenized)",
+  "symbol": "NVDAon",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Ondo Tokenized",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0x2D1F7226Bd1F780AF6B9A49DCC0aE00E8Df4bDEE",
+  "status": "active",
+  "id": "0x2D1F7226Bd1F780AF6B9A49DCC0aE00E8Df4bDEE"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Microsoft (Ondo Tokenized)",
+  "symbol": "MSFTon",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Ondo Tokenized",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0xB812837b81a3a6b81d7CD74CfB19A7f2784555E5",
+  "status": "active",
+  "id": "0xB812837b81a3a6b81d7CD74CfB19A7f2784555E5"
+}

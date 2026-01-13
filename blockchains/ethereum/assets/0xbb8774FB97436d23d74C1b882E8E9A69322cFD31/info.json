@@ -1,0 +1,11 @@
+{
+  "name": "Amazon (Ondo Tokenized)",
+  "symbol": "AMZNon",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Ondo Tokenized",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0xbb8774FB97436d23d74C1b882E8E9A69322cFD31",
+  "status": "active",
+  "id": "0xbb8774FB97436d23d74C1b882E8E9A69322cFD31"
+}

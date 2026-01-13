@@ -1,0 +1,11 @@
+{
+  "name": "Alphabet Class A (Ondo Tokenized)",
+  "symbol": "GOOGLon",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Ondo Tokenized",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0xbA47214eDd2bb43099611b208f75E4b42FDcfEDc",
+  "status": "active",
+  "id": "0xbA47214eDd2bb43099611b208f75E4b42FDcfEDc"
+}

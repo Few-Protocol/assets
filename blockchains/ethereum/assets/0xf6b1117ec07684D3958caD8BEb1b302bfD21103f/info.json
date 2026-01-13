@@ -1,0 +1,11 @@
+{
+  "name": "Tesla (Ondo Tokenized)",
+  "symbol": "TSLAon",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Ondo Tokenized",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0xf6b1117ec07684D3958caD8BEb1b302bfD21103f",
+  "status": "active",
+  "id": "0xf6b1117ec07684D3958caD8BEb1b302bfD21103f"
+}
