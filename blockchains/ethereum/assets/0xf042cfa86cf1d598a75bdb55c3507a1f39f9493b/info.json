@@ -1,0 +1,11 @@
+{
+    "name": "Coinbase (Ondo Tokenized)",
+    "symbol": "COINon",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Ondo Tokenized",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0xf042cfa86cf1d598a75bdb55c3507a1f39f9493b",
+    "status": "active",
+    "id": "0xf042cfa86cf1d598a75bdb55c3507a1f39f9493b"
+}

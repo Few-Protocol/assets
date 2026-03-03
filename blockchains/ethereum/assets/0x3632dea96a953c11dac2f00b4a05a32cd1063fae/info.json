@@ -1,0 +1,11 @@
+{
+    "name": "Circle Internet Group (Ondo Tokenized)",
+    "symbol": "CRCLon",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Ondo Tokenized",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0x3632dea96a953c11dac2f00b4a05a32cd1063fae",
+    "status": "active",
+    "id": "0x3632dea96a953c11dac2f00b4a05a32cd1063fae"
+}
